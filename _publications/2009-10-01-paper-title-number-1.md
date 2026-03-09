@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+@article{DUFERA2021100058,
+title = {Deep neural network for system of ordinary differential equations: Vectorized algorithm and simulation},
+journal = {Machine Learning with Applications},
+volume = {5},
+pages = {100058},
+year = {2021},
+issn = {2666-8270},
+doi = {https://doi.org/10.1016/j.mlwa.2021.100058},
+url = {https://www.sciencedirect.com/science/article/pii/S2666827021000293},
+author = {Tamirat Temesgen Dufera},
+keywords = {Deep Neural Network, Algorithm, Systems of ordinary differential equation},
+abstract = {This paper is aimed at applying deep artificial neural networks for solving system of ordinary differential equations. We developed a vectorized algorithm and implemented using python code. We conducted different experiments for selecting better neural architecture. For the learning of the neural network, we utilized the adaptive moment minimization method. Finally, we compare the method with one of the traditional numerical methods-Runge–Kutta order four. We have shown that, the artificial neural network could provide better accuracy for smaller numbers of grid points.}
+}
