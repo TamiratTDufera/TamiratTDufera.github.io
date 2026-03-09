@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Associate Professor of Applied Mathematics"
 title_separator          : "-"
 name                     : &name "Tamirat Temesgen Dufera"
@@ -24,10 +24,10 @@ repository               : "TamiratTDufera/TamiratTDufera.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Tamirat Temesgen Dufera"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Ethiopia"
   employer         : "Adama Science and Technology University"
   uri              : # URL
   email            : "tamirat.temesgen@astu.edu.et" 
