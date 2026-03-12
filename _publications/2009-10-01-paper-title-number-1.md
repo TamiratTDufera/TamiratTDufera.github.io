@@ -8,5 +8,5 @@ date: 2021-06-07
 venue: 'Machine Learning with Applications'
 slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: '[https://academicpages.github.io/files/paper2.pdf](https://doi.org/10.1016/j.mlwa.2021.100058)'
-citation: 'Dufera, T. T. (2021). &quot;Deep neural network for system of ordinary differential equations: Vectorized algorithm and simulation.&quot; <i>Machine Learning with Applications</i>'
+citation: 'Dufera, T. T. (2021). &quot;Deep neural network for system of ordinary differential equations: Vectorized algorithm and simulation.&quot; <i>Machine Learning with Applications</i> 5, 100058'
 ---
